@@ -11,6 +11,7 @@ This project is a Spring Boot implementation of the backend APIs for a ticket bo
 * Booking History -> Users can view their booking history and check the details of their past bookings.
 
 ## Technologies Used
+* React
 * Java 17+
 * Spring Boot 3.3.0 
 * Spring Data JPA
